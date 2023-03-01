@@ -44,7 +44,7 @@ The included source files are written in [Sass] using SCSS syntax. After [instal
 @import "@primer/css/index.scss";
 ```
 
-You can import individual Primer modules directly from the `@primer/css` package:
+You can import individual Primer modules directly f'rimer/css` package:
 
 ```scss
 @import "@primer/css/core/index.scss";
